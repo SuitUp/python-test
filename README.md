@@ -1,7 +1,7 @@
 # python-test
 RedCarpetUp_Assignment
 
-I have done this assignement in a phase of schedule filled with university exams, appoligies for delay from my side.
+I have done this assignement in a phase of schedule filled with university exams, appoligies from my side.
 
 Concerning the ASSIGNMENT:-
   I have done the Part 1 of the assignment till my maximum knowlegde of stock market and relevant details, although
@@ -12,4 +12,4 @@ Concerning the ASSIGNMENT:-
   
   I would have done part 3, but ommitting part 2 felt not so good! 
   
-  Thank you andI enjoyed working on this assignment, hope for a great response!
+  Thank you and I enjoyed working on this assignment, hope for a great response!
