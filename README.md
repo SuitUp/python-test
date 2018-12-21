@@ -1,15 +1,15 @@
 # python-test
-RedCarpetUp_Assignment
-
-I have done this assignement in a phase of schedule filled with university exams, appoligies from my side.
 
 Concerning the ASSIGNMENT:-
-  I have done the Part 1 of the assignment till my maximum knowlegde of stock market and relevant details, although
-  I did RESERACH and completed part1 till Q3.2!!
+  It requires one to have a fair amount of knowledge in the field of data science.
   
-  Part 2 required of me to study bokeh from scratch!
-  i am studying it though.
+ REQUIRES:-
+    1. Data Cleansing
+    2. Data Manupulation
+    3. Data Visualization
+    4. Data Plotting
   
-  I would have done part 3, but ommitting part 2 felt not so good! 
+  It requires one to have a woking knowledge of bokeh from scratch!
+  i am studying it though. 
   
   Thank you and I enjoyed working on this assignment, hope for a great response!
